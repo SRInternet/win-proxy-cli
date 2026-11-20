@@ -1,6 +1,6 @@
 <div align="center">
 
-# win-proxy-cli
+# <img src="assets/tubiao-arrow-decision-auto.png" alt="proxy_icon" width="32" height="32"> win-proxy-cli
 
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white" alt="Platform Windows" />
   <img src="https://img.shields.io/badge/PowerShell-5.1%20%7C%207+-5391FE?logo=powershell&logoColor=white" alt="PowerShell" />
@@ -59,6 +59,7 @@ git clone https://github.com/SRInternet/win-proxy-cli.git
 
 > [!TIP]
 > **请把 <你的用户名> 替换为你自己的 Windows 用户名**
+> 
 > 如果你不知道自己的用户名，可以在 Windows 运行 `net user` 查看所有用户。
 
 按你平时使用的终端类型配置对应入口即可（三者配置独立，可全部配置也可只配常用的）：
